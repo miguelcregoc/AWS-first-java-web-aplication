@@ -1,1 +1,17 @@
+# Maven
 target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Configuraciones de ejecución (pueden contener claves si se guardan en el proyecto)
+*.launch
+
+# Secretos y logs
+.env
+*.log
+
+# Windows
+Thumbs.dbtarget/
